@@ -15,12 +15,12 @@ Request untuk mengambil semua data instansi :
 
 ```json
 {
-    [
+    {
         "idKantor" : 1,
         "idInstansi" : 1,
         "jenis" : "skpd",
         "nama" : "Dinas Komunikasi dan Informatika"
-    ],
+    },
     ...
 }
 ```
