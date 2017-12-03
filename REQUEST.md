@@ -152,51 +152,54 @@ Request untuk mengambil data *Renja Ahir* yang berstatus *disetujui* serta data 
                                             "rekAkun" : 5,
                                             "namaRekAkun" : "Belanja",
                                             "dataRekKelompok" : [
-                                                "rekKelompok" : 2,
-                                                "namaRekKelompok" : "Belanja Langsung",
-                                                "dataRekBelanja" : [
-                                                    {
-                                                        "rekBelanja" : 2,
-                                                        "namaRekBelanja" : "Belanja Barang dan Jasa",
-                                                        "dataRekBagian" : [
-                                                            {
-                                                                "rekBagian" : 3,
-                                                                "namaRekBagian" : "Belanja Jasa Kantor",
-                                                                "dataSubBagian" : [
-                                                                    {
-                                                                        "rekSubBagian" : 6,
-                                                                        "namaSubBagian" : "Belanja kawat/faksimili/internet",
-                                                                        "dataRincian" : [
-                                                                            {
-                                                                                "idRincian" : 45042,
-                                                                                "namaRincian" : "Belanja Jaringan Internet",
-                                                                                "dataSubRincian" : [
-                                                                                    {
-                                                                                        "idSubRincian" : 123267,
-                                                                                        "namaSubRincian" : "Internet",
-                                                                                        "volume1" : 2,
-                                                                                        "satuan1" : "Rek",
-                                                                                        "volume2" : 12,
-                                                                                        "satuan2" : "Bulan",
-                                                                                        "volume3" : 1,
-                                                                                        "satuan3" : "Tahun",
-                                                                                        "nilai" : 800000,
-                                                                                        "jumlah" : 19200000,
-                                                                                    },
-                                                                                    ...
-                                                                                ]
-                                                                            },
-                                                                            ...
-                                                                        ]
-                                                                    },
-                                                                    ...
-                                                                ]
-                                                            },
-                                                            ...
-                                                        ]
-                                                    },
-                                                    ...
-                                                ]
+                                                {
+                                                    "rekKelompok" : 2,
+                                                    "namaRekKelompok" : "Belanja Langsung",
+                                                    "dataRekBelanja" : [
+                                                        {
+                                                            "rekBelanja" : 2,
+                                                            "namaRekBelanja" : "Belanja Barang dan Jasa",
+                                                            "dataRekBagian" : [
+                                                                {
+                                                                    "rekBagian" : 3,
+                                                                    "namaRekBagian" : "Belanja Jasa Kantor",
+                                                                    "dataSubBagian" : [
+                                                                        {
+                                                                            "rekSubBagian" : 6,
+                                                                            "namaSubBagian" : "Belanja kawat/faksimili/internet",
+                                                                            "dataRincian" : [
+                                                                                {
+                                                                                    "idRincian" : 45042,
+                                                                                    "namaRincian" : "Belanja Jaringan Internet",
+                                                                                    "dataSubRincian" : [
+                                                                                        {
+                                                                                            "idSubRincian" : 123267,
+                                                                                            "namaSubRincian" : "Internet",
+                                                                                            "volume1" : 2,
+                                                                                            "satuan1" : "Rek",
+                                                                                            "volume2" : 12,
+                                                                                            "satuan2" : "Bulan",
+                                                                                            "volume3" : 1,
+                                                                                            "satuan3" : "Tahun",
+                                                                                            "nilai" : 800000,
+                                                                                            "jumlah" : 19200000,
+                                                                                        },
+                                                                                        ...
+                                                                                    ]
+                                                                                },
+                                                                                ...
+                                                                            ]
+                                                                        },
+                                                                        ...
+                                                                    ]
+                                                                },
+                                                                ...
+                                                            ]
+                                                        },
+                                                        ...
+                                                    ]
+                                                },
+                                                ...
                                             ]
                                         },
                                         ...
