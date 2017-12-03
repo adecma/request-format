@@ -136,7 +136,7 @@ Request untuk mengambil data *Renja Ahir* yang berstatus *disetujui* serta data 
                                     "idRka" : 8688,
                                     "namaKegiatan" : "Sosialisasi Perda Perparkiran",
                                     "lokasiKegiatan" : "Telaga Langsat",
-                                    "sumberDana" : Pendapatan Daerah,
+                                    "sumberDana" : "Pendapatan Daerah",
                                     "pagu" : 17155000,
                                     "kelompokSasaran" : "Pengelola dan Juru Parkir",
                                     "dataIndikatorKegiatan" : [
