@@ -1,5 +1,5 @@
 #Format Response JSON
-```
+```json
 {
     "name": "laravel/laravel",
     "description": "The Laravel Framework.",
