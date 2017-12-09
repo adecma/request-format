@@ -119,31 +119,31 @@ Request untuk mengambil data *Renja Ahir* yang berstatus *disetujui* serta data 
                     "dataProgram" : [
                         {
                             "idProgram" : 16,
-                            "idRenjaAkhir" : 7248,
                             "namaProgram" : "Program Rehabilitasi dan Pemeliharaan Prasarana dan Fasilitas LLAJ",
-                            "lokasiProgram" : "Dinas Perhubungan Informatika dan Komunikasi",
+                            "paguProgram" : 1199958330,
                             "dataIndikatorProgram" : [
                                 {
-                                    "indikatorProgram" : "Meningkatnya Keselamatan dan Kenyamanan transportasi Umum",
-                                    "volume" : 79,
-                                    "satuan" : "Persen"
+                                    "idIndikatorProgram" : 684,
+                                    "namaIndikatorProgram" : "Meningkatnya Keselamatan dan Kenyamanan transportasi Umum",
+                                    "volumeProgram" : 79,
+                                    "satuanProgram" : "Persen"
                                 },
                                 ...
                             ],
                             "dataKegiatan" : [
                                 {
                                     "idKegiatan" : 4,
-                                    "idRka" : 8688,
+                                    "idRenjaAkhir" : 10306,
                                     "namaKegiatan" : "Sosialisasi Perda Perparkiran",
                                     "lokasiKegiatan" : "Telaga Langsat",
                                     "sumberDana" : "Pendapatan Daerah",
-                                    "pagu" : 17155000,
+                                    "paguKegiatan" : 17155000,
                                     "kelompokSasaran" : "Pengelola dan Juru Parkir",
                                     "dataIndikatorKegiatan" : [
                                         {
-                                            "indikatorKegiatan" : "Terlaksananya Sosialisasi Perda Perparkiran 1 Paket",
-                                            "volume" : 1,
-                                            "satuan" : "Paket"
+                                            "namaIndikatorKegiatan" : "Terlaksananya Sosialisasi Perda Perparkiran 1 Paket",
+                                            "volumeKegiatan" : 1,
+                                            "satuanKegiatan" : "Paket"
                                         },
                                         ...
                                     ],
